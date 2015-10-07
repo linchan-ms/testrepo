@@ -2,3 +2,4 @@ first line.
 Adding another line again.
 Edited in branch1.
 Same line updated in master.
+Same line update in branch1.
